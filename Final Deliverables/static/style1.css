@@ -1,0 +1,30 @@
+body
+{
+    background-color: whitesmoke;
+    
+
+}
+.container
+{
+    margin-top:5% ;
+}
+.container .card
+{
+   margin-top: 5%;
+   background-color: cadetblue;
+   margin-bottom:15%;
+}
+.container .text-center
+{
+    margin-top: 0;
+    text-align: center;
+    height: 100%;
+    width: 100%; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+}
+#cls
+{
+    background-image:url('static/rainbaground.jpg'); 
+    height:auto;
+}

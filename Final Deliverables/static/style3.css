@@ -1,0 +1,13 @@
+body
+{
+    background-color: red;
+}
+.container
+{
+    background-color: whitesmoke;
+    margin-top: 5%;
+}
+.container .card
+{
+  background-color: cadetblue;
+}
